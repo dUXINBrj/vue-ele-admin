@@ -20,8 +20,8 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-> 集成vuex和二次封装的axios
-
 # 基于vue和elementUi的后台管理模版
+
+> 集成vuex和二次封装的axios
 
 TODO：登陆页的表单验证
